@@ -3,16 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alishaanasir&label=Profile%20views&color=0e75b6&style=flat" alt="alishaanasir" /> </p>
 
-- 🔭 I’m currently working on **C++**
-
-- 🌱 I’m currently learning **C,C++**
-
-- 💬 Ask me about **Android**
-
-- 📫 How to reach me **s85016746n@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
+- 🌱 I’m currently learning **C,C++, java, SQL, Power BI, Tableu, Data Analysis, Web Designing and Develpment **
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
